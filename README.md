@@ -48,6 +48,7 @@ Track changes to competitor websites, pricing pages, and product updates.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
+- [Snaplert](https://snaplert.com) - Visual pixel diffs + AI summaries (Claude) for competitor page changes. Element-level zone picker cuts noise. Free during open beta.
 
 ---
 
