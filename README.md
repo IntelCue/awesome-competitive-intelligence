@@ -33,6 +33,7 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 - [Klue](https://klue.com) - Competitive enablement with win/loss analysis. Strong battlecard builder.
 - [Kompyte](https://kompyte.com) - Automated competitor tracking with battlecards. Part of Semrush.
 - [Contify](https://contify.com) - Market and competitive intelligence with custom taxonomy.
+- [GetAppNiche](https://getappniche.com/) - App Store competitive intelligence for indie iOS founders: revenue estimates, downloads, ASO keywords, ads, and reviews.
 - [IntelCue](https://intelcue.ai) - AI-powered competitor monitoring with automated digests. Built for lean teams.
 - [AlphaSense](https://alpha-sense.com) - Enterprise market intelligence with financial data focus.
 - [Valona](https://valona.io) - Strategic intelligence platform for enterprises.
