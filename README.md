@@ -61,6 +61,7 @@ Analyze competitor search rankings, traffic, and content strategy.
 - [SpyFu](https://spyfu.com) - Competitor keyword and PPC research.
 - [Moz](https://moz.com) - SEO tools with domain authority metrics.
 - [SE Ranking](https://seranking.com) - SEO platform with competitor tracking.
+- [Screpy](https://screpy.com/) - Technical SEO audits, rank tracking, and competitor comparison for website visibility.
 
 ---
 
