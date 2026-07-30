@@ -36,6 +36,8 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 - [IntelCue](https://intelcue.ai) - AI-powered competitor monitoring with automated digests. Built for lean teams.
 - [AlphaSense](https://alpha-sense.com) - Enterprise market intelligence with financial data focus.
 - [Valona](https://valona.io) - Strategic intelligence platform for enterprises.
+- [RivalSense](https://rivalsense.co) - AI-powered competitor monitoring across 80+ sources with weekly curated digests.
+- [Parano.ai](https://parano.ai) - AI-powered tracking of competitor product, pricing, marketing, hiring, and funding moves.
 
 ---
 
