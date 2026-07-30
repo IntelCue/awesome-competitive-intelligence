@@ -180,6 +180,9 @@ Guides and deep dives on competitive intelligence.
 - [Competitive Positioning Guide](https://klue.com/resources) - Klue's framework.
 - [CI for Product Managers](https://productboard.com/blog) - Product-focused CI.
 - [State of Competitive Intelligence Report](https://crayon.co/state-of-competitive-intelligence) - Annual industry survey.
+- [AI-First Competitive Intelligence](https://www.intelcue.ai/blog/ai-first-competitive-intelligence) - How AI agents are replacing manual competitor research.
+- [Claude vs ChatGPT for Competitive Intelligence](https://www.intelcue.ai/blog/claude-vs-chatgpt-competitive-intelligence-comparison) - Comparing the two models for competitive analysis workflows.
+- [How to Choose Competitive Intelligence Software (2026)](https://www.intelcue.ai/blog/how-to-choose-competitive-intelligence-software-saas-2026) - Evaluation criteria for early-stage SaaS teams.
 
 ---
 
