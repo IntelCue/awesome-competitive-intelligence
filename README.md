@@ -155,6 +155,8 @@ Ready-to-use templates for competitor tracking and analysis.
 - [Battlecard Template (Google Docs)](https://docs.google.com) - Sales battlecard format.
 - [SWOT Analysis Template](https://miro.com/templates/swot-analysis) - Classic strategic analysis.
 - [Win/Loss Interview Questions](https://klue.com/resources) - Template for customer interviews.
+- [Competitive Intelligence Tracker (Notion)](https://www.notion.com/templates/competitive-intelligence-tracker) - Centralized database for organizing and monitoring competitive intelligence, by IntelCue.
+- [Competitor Battlecard (Notion)](https://www.notion.com/templates/competitor-battlecard) - Structured template for documenting competitor strengths, weaknesses, and positioning.
 
 ---
 
