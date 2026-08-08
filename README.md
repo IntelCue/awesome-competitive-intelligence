@@ -38,6 +38,7 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 - [Valona](https://valona.io) - Strategic intelligence platform for enterprises.
 - [RivalSense](https://rivalsense.co) - AI-powered competitor monitoring with weekly curated digests.
 - [Parano.ai](https://parano.ai) - AI-powered tracking of competitor product, pricing, marketing, hiring, and funding moves.
+- [Watchlist](https://watchlist-ten-gamma.vercel.app) - Automated weekly competitive intelligence: name your company and competitors and it scans Reddit, news, and GitHub for signals that matter.
 
 ---
 
