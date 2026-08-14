@@ -89,6 +89,7 @@ Track competitor press releases, news mentions, and media coverage.
 - [Cision](https://cision.com) - PR and media monitoring.
 - [Talkwalker](https://talkwalker.com) - Social listening and media monitoring.
 - [NewsWhip](https://newswhip.com) - Predictive media intelligence.
+- [Superhighway Patent Research Agent](https://superhighway.walls.sh/guides/patent-research-agent) - Python agent that tracks competitor patent filings, maps patent landscapes, finds prior art, and assesses freedom-to-operate risk using live web search. Outputs structured patent intelligence briefs. Pay-per-call, no signup.
 
 ---
 
