@@ -143,6 +143,7 @@ No-cost options for getting started with competitive intelligence.
 | [SEOquake](https://seoquake.com) | Free browser extension for SEO metrics |
 | [Hunter.io](https://hunter.io) | Find email addresses (free tier) |
 | [Ubersuggest (free tier)](https://neilpatel.com/ubersuggest) | Basic keyword research |
+| [Urlcomp Clone Check](https://www.urlcomp.com/tools/clone-check) | Paste a product URL for clone difficulty and public pricing |
 
 ---
 
