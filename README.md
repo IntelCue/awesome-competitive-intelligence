@@ -33,7 +33,7 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 - [Contify](https://contify.com) - Market and competitive intelligence with custom taxonomy.
 - [IntelCue](https://intelcue.ai) - AI-powered competitor and market monitoring across many sources. Cost-effective for lean teams.
 - [AlphaSense](https://alpha-sense.com) - Enterprise market intelligence with financial data focus.
-- [Valona](https://valona.io) - Strategic intelligence platform for enterprises.
+- [Valona](https://valonaintelligence.com) - Strategic intelligence platform for enterprises.
 - [RivalSense](https://rivalsense.co) - AI-powered competitor monitoring with weekly curated digests.
 - [Parano.ai](https://parano.ai) - AI-powered tracking of competitor product, pricing, marketing, hiring, and funding moves.
 - [Watchlist](https://watchlist-ten-gamma.vercel.app) - Automated weekly competitive intelligence: name your company and competitors and it scans Reddit, news, and GitHub for signals that matter.
@@ -45,7 +45,6 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 Track changes to competitor websites, pricing pages, and product updates.
 
 - [Visualping](https://visualping.io) - Visual website change detection with screenshots.
-- [Changd](https://changd.io) - Website monitoring with Slack/email alerts.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
@@ -203,7 +202,7 @@ Places to discuss competitive intelligence with practitioners.
 - [Product Marketing Alliance](https://productmarketingalliance.com) - PMM community with CI focus.
 - [r/ProductMarketing](https://reddit.com/r/ProductMarketing) - Reddit community.
 - [r/SaaS](https://reddit.com/r/SaaS) - SaaS-focused discussions.
-- [SCIP](https://scip.org) - Strategic and Competitive Intelligence Professionals.
+- [SCIP](https://scip.world) - Strategic Consortium of Intelligence Professionals, the global association for intelligence practitioners, with training and certification.
 
 ---
 
