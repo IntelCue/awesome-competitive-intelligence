@@ -1,6 +1,6 @@
 # Awesome Competitive Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of competitive intelligence tools, resources, templates, and guides for tracking competitors, analyzing markets, and staying ahead.
+Gathering and analyzing information about competitors and markets to make better product, marketing and strategy decisions.
 
 ---
 
