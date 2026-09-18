@@ -20,7 +20,6 @@ Gathering and analyzing information about competitors and markets to make better
 - [Books](#books)
 - [Articles](#articles)
 - [Communities](#communities)
-- [Related Lists](#related-lists)
 
 ---
 
