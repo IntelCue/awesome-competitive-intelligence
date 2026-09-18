@@ -2,8 +2,6 @@
 
 A curated list of competitive intelligence tools, resources, templates, and guides for tracking competitors, analyzing markets, and staying ahead.
 
-Contributions welcome! Please read the [contribution guidelines](#contributing) first.
-
 ---
 
 ## Contents
@@ -13,6 +11,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEO & Traffic Analysis](#seo--traffic-analysis)
 - [Social Listening](#social-listening)
 - [News & Media Monitoring](#news--media-monitoring)
+- [Ad Intelligence](#ad-intelligence)
 - [Company & Funding Data](#company--funding-data)
 - [Review Monitoring](#review-monitoring)
 - [Job Posting Trackers](#job-posting-trackers)
@@ -21,7 +20,6 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Books](#books)
 - [Articles](#articles)
 - [Communities](#communities)
-- [Newsletters](#newsletters)
 
 ---
 
@@ -29,7 +27,6 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 Full-featured competitive intelligence platforms with monitoring, analysis, and distribution.
 
-- [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
 - [Crayon](https://crayon.co) - Enterprise CI platform with battlecards and sales enablement. Best for large sales teams.
 - [Klue](https://klue.com) - Competitive enablement with win/loss analysis. Strong battlecard builder.
 - [Kompyte](https://kompyte.com) - Automated competitor tracking with battlecards. Part of Semrush.
@@ -86,13 +83,21 @@ Monitor competitor mentions and activity across social media.
 
 Track competitor press releases, news mentions, and media coverage.
 
-- [Google Alerts](https://google.com/alerts) - Free email alerts for any search term.
 - [Feedly](https://feedly.com) - RSS reader with AI-powered filtering.
 - [Meltwater](https://meltwater.com) - Media intelligence platform.
 - [Cision](https://cision.com) - PR and media monitoring.
 - [Talkwalker](https://talkwalker.com) - Social listening and media monitoring.
 - [NewsWhip](https://newswhip.com) - Predictive media intelligence.
-- [Superhighway Patent Research Agent](https://superhighway.walls.sh/guides/patent-research-agent) - Python agent that tracks competitor patent filings, maps patent landscapes, finds prior art, and assesses freedom-to-operate risk using live web search. Outputs structured patent intelligence briefs. Pay-per-call, no signup.
+
+---
+
+## Ad Intelligence
+
+See what competitors are paying to say: creatives, messaging, and campaign activity.
+
+- [Google Ads Transparency Center](https://adstransparency.google.com) - Public library of ads run on Google, searchable by advertiser.
+- [Meta Ad Library](https://www.facebook.com/ads/library) - Public library of active ads across Facebook and Instagram.
+- [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
 
 ---
 
@@ -137,17 +142,14 @@ Monitor competitor hiring to understand strategy and investment areas.
 
 No-cost options for getting started with competitive intelligence.
 
-| Tool | Use Case |
-|------|----------|
-| [Google Alerts](https://google.com/alerts) | News and mention monitoring |
-| [SimilarWeb (free tier)](https://similarweb.com) | Basic traffic estimates |
-| [BuiltWith (free tier)](https://builtwith.com) | Competitor tech stack lookup |
-| [Wappalyzer](https://wappalyzer.com) | Browser extension for tech detection |
-| [Wayback Machine](https://web.archive.org) | Historical website snapshots |
-| [SEOquake](https://seoquake.com) | Free browser extension for SEO metrics |
-| [Hunter.io](https://hunter.io) | Find email addresses (free tier) |
-| [Ubersuggest (free tier)](https://neilpatel.com/ubersuggest) | Basic keyword research |
-| [Urlcomp Clone Check](https://www.urlcomp.com/tools/clone-check) | Paste a product URL for clone difficulty and public pricing |
+- [Google Alerts](https://google.com/alerts) - News and mention monitoring.
+- [BuiltWith (free tier)](https://builtwith.com) - Competitor tech stack lookup.
+- [Wappalyzer](https://wappalyzer.com) - Browser extension for tech detection.
+- [Wayback Machine](https://web.archive.org) - Historical website snapshots.
+- [SEOquake](https://seoquake.com) - Free browser extension for SEO metrics.
+- [Hunter.io](https://hunter.io) - Find email addresses (free tier).
+- [Ubersuggest (free tier)](https://neilpatel.com/ubersuggest) - Basic keyword research.
+- [Urlcomp Clone Check](https://www.urlcomp.com/tools/clone-check) - Paste a product URL for clone difficulty and public pricing.
 
 ---
 
@@ -169,12 +171,12 @@ Ready-to-use templates for competitor tracking and analysis.
 
 Essential reading on competitive intelligence.
 
-- **"Competitive Intelligence Advantage"** by Seena Sharp - Practical CI fundamentals.
-- **"The Art of War"** by Sun Tzu - Timeless strategy principles.
-- **"Competitive Strategy"** by Michael Porter - Framework for competitive analysis.
-- **"Blue Ocean Strategy"** by W. Chan Kim - Finding uncontested market space.
-- **"Obviously Awesome"** by April Dunford - Positioning against competitors.
-- **"Playing to Win"** by A.G. Lafley - Strategic decision-making framework.
+- [Competitive Intelligence Advantage](https://openlibrary.org/search?q=Competitive+Intelligence+Advantage) - By Seena Sharp. Practical CI fundamentals.
+- [The Art of War](https://openlibrary.org/search?q=The+Art+of+War) - By Sun Tzu. Timeless strategy principles.
+- [Competitive Strategy](https://openlibrary.org/search?q=Competitive+Strategy) - By Michael Porter. Framework for competitive analysis.
+- [Blue Ocean Strategy](https://openlibrary.org/search?q=Blue+Ocean+Strategy) - By W. Chan Kim. Finding uncontested market space.
+- [Obviously Awesome](https://openlibrary.org/search?q=Obviously+Awesome) - By April Dunford. Positioning against competitors.
+- [Playing to Win](https://openlibrary.org/search?q=Playing+to+Win) - By A.G. Lafley. Strategic decision-making framework.
 
 ---
 
@@ -184,8 +186,8 @@ Guides and deep dives on competitive intelligence.
 
 - [What is Competitive Intelligence?](https://en.wikipedia.org/wiki/Competitive_intelligence) - Wikipedia overview.
 - [How to Build a CI Program](https://crayon.co/blog) - Crayon's guide.
-- [Competitive Positioning Guide](https://klue.com/resources) - Klue's framework.
 - [CI for Product Managers](https://productboard.com/blog) - Product-focused CI.
+- [Superhighway Patent Research Agent](https://superhighway.walls.sh/guides/patent-research-agent) - Python agent that tracks competitor patent filings, maps patent landscapes, finds prior art, and assesses freedom-to-operate risk using live web search. Outputs structured patent intelligence briefs. Pay-per-call, no signup.
 - [State of Competitive Intelligence Report](https://crayon.co/state-of-competitive-intelligence) - Annual industry survey.
 - [AI-First Competitive Intelligence](https://www.intelcue.ai/blog/ai-first-competitive-intelligence) - How AI agents are replacing manual competitor research.
 - [Claude vs ChatGPT for Competitive Intelligence](https://www.intelcue.ai/blog/claude-vs-chatgpt-competitive-intelligence-comparison) - Comparing the two models for competitive analysis workflows.
@@ -205,34 +207,6 @@ Places to discuss competitive intelligence with practitioners.
 
 ---
 
-## Newsletters
-
-Stay updated on CI trends and best practices.
-
-- [Competitive Intelligence Alliance Newsletter](https://competitiveintelligencealliance.io) - Weekly CI insights.
-- [Klue Newsletter](https://klue.com) - Competitive enablement tips.
-- [Product Marketing Weekly](https://productmarketingalliance.com) - Includes CI content.
-
----
-
 ## Contributing
 
-Contributions are welcome!
-
-Please ensure your suggestion:
-- Is relevant to competitive intelligence
-- Isn't already on the list
-- Has a working link
-
-To contribute:
-1. Fork this repo
-2. Add your suggestion
-3. Submit a pull request
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyright and related rights to this work.
+Contributions are welcome. Please read the [contribution guidelines](contributing.md) first.
