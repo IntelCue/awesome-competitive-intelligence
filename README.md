@@ -29,6 +29,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 Full-featured competitive intelligence platforms with monitoring, analysis, and distribution.
 
+- [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
 - [Crayon](https://crayon.co) - Enterprise CI platform with battlecards and sales enablement. Best for large sales teams.
 - [Klue](https://klue.com) - Competitive enablement with win/loss analysis. Strong battlecard builder.
 - [Kompyte](https://kompyte.com) - Automated competitor tracking with battlecards. Part of Semrush.
