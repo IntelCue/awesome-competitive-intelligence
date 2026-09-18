@@ -20,6 +20,7 @@ Gathering and analyzing information about competitors and markets to make better
 - [Books](#books)
 - [Articles](#articles)
 - [Communities](#communities)
+- [Related Lists](#related-lists)
 
 ---
 
@@ -206,6 +207,12 @@ Places to discuss competitive intelligence with practitioners.
 - [SCIP](https://scip.org) - Strategic and Competitive Intelligence Professionals.
 
 ---
+
+## Related Lists
+
+- [Market Intelligence](https://github.com/IntelCue/awesome-market-intelligence#readme) - Understanding the size, direction and participants of a market.
+- [Personal Branding](https://github.com/IntelCue/awesome-personal-branding#readme) - Building a professional reputation by publishing consistently.
+- [Content Marketing](https://github.com/IntelCue/awesome-content-marketing#readme) - Planning, creating and distributing content that earns an audience.
 
 ## Contributing
 
