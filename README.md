@@ -75,6 +75,7 @@ Monitor competitor mentions and activity across social media.
 - [Brand24](https://brand24.com) - Social listening with sentiment analysis.
 - [Hootsuite](https://hootsuite.com) - Social management with monitoring features.
 - [BuzzSumo](https://buzzsumo.com) - Content research and influencer tracking.
+- [xscout](https://github.com/ethan-ab/xscout-jev) - Open-source X monitor that scores posts against a profile with an LLM and sends big or trending updates to Slack.
 
 ---
 
