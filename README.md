@@ -62,6 +62,7 @@ Analyze competitor search rankings, traffic, and content strategy.
 - [Moz](https://moz.com) - SEO tools with domain authority metrics.
 - [SE Ranking](https://seranking.com) - SEO platform with competitor tracking.
 - [Screpy](https://screpy.com/) - Technical SEO audits, rank tracking, and competitor comparison for website visibility.
+- [LogNorm](https://lognorm.com/) - Tracks competitors alongside your site in SEO and AI-answer results (ChatGPT, Gemini, Google AI Overviews) and turns the gaps into ranked fixes for AI coding agents.
 
 ---
 
