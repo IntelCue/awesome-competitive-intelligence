@@ -110,6 +110,7 @@ Research competitor funding, leadership, and company structure.
 - [ZoomInfo](https://zoominfo.com) - B2B contact and company data.
 - [LinkedIn Sales Navigator](https://linkedin.com/sales) - Company and employee insights.
 - [CB Insights](https://cbinsights.com) - Market intelligence and company data.
+- [FalcoScan](https://falcoscan.com) - AI market intelligence on 7,000+ AI products by market, plus a sourced record of AI shutdowns and acquisitions.
 
 ---
 
