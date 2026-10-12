@@ -37,6 +37,7 @@ Full-featured competitive intelligence platforms with monitoring, analysis, and 
 - [RivalSense](https://rivalsense.co) - AI-powered competitor monitoring with weekly curated digests.
 - [Parano.ai](https://parano.ai) - AI-powered tracking of competitor product, pricing, marketing, hiring, and funding moves.
 - [Watchlist](https://watchlist-ten-gamma.vercel.app) - Automated weekly competitive intelligence: name your company and competitors and it scans Reddit, news, and GitHub for signals that matter.
+- [looot-battlecards](https://github.com/loootai/looot-battlecards) - Open-source, self-hosted alternative to Klue and Crayon battlecards (MIT): pricing, positioning, news, hiring, tech stack, reviews and ads per competitor, each claim with a source and date. About $0.015 per competitor in looot API calls; demo mode needs no key.
 
 ---
 
