@@ -97,6 +97,7 @@ See what competitors are paying to say: creatives, messaging, and campaign activ
 - [Google Ads Transparency Center](https://adstransparency.google.com) - Public library of ads run on Google, searchable by advertiser.
 - [Meta Ad Library](https://www.facebook.com/ads/library) - Public library of active ads across Facebook and Instagram.
 - [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
+- [LaunchSpy](https://launchspy.io) - Tracks Meta ads run by course creators, coaches and community owners, links each ad to the funnel it sends traffic to and the tools behind it, and alerts when a competitor launches or stops ads.
 
 ---
 
