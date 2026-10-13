@@ -48,6 +48,7 @@ Track changes to competitor websites, pricing pages, and product updates.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
+- [RivalSweep](https://rivalsweep.com) - Monitors competitors' pricing, changelog and product pages; keeps the before/after diff as evidence and labels AI classification as inference.
 
 ---
 
