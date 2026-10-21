@@ -75,6 +75,7 @@ Monitor competitor mentions and activity across social media.
 - [Brand24](https://brand24.com) - Social listening with sentiment analysis.
 - [Hootsuite](https://hootsuite.com) - Social management with monitoring features.
 - [BuzzSumo](https://buzzsumo.com) - Content research and influencer tracking.
+- [IGDataHub](https://igdatahub.com/compare/) - Compare public Instagram accounts by followers and engagement rate, with follower history for the accounts it tracks.
 
 ---
 
