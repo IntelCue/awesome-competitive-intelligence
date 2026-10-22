@@ -97,6 +97,7 @@ See what competitors are paying to say: creatives, messaging, and campaign activ
 - [Google Ads Transparency Center](https://adstransparency.google.com) - Public library of ads run on Google, searchable by advertiser.
 - [Meta Ad Library](https://www.facebook.com/ads/library) - Public library of active ads across Facebook and Instagram.
 - [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
+- [PeekPanda](https://peekpanda.com) - Competitor intelligence for iOS apps: the Meta ads an app keeps paying for and how long each has run, the US App Store searches it ranks for, and its organic posts that went viral, each dated. Web app, API and MCP server.
 
 ---
 
