@@ -164,6 +164,8 @@ Ready-to-use templates for competitor tracking and analysis.
 - [Competitive Intelligence Tracker (Notion)](https://www.notion.com/templates/competitive-intelligence-tracker) - Centralized database for organizing and monitoring competitive intelligence, by IntelCue.
 - [Competitor Battlecard (Notion)](https://www.notion.com/templates/competitor-battlecard) - Structured template for documenting competitor strengths, weaknesses, and positioning.
 
+- [Pricing-change verification checklist](https://evidentsignal.com/competitor-pricing-monitoring/) - An account-free guide and editable checklist for comparing billing terms, packaging, eligibility and dated evidence before updating competitive guidance.
+
 ---
 
 ## Books
