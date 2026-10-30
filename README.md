@@ -48,6 +48,7 @@ Track changes to competitor websites, pricing pages, and product updates.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
+- [CurlShot](https://curlshot.com) - Screenshot API for capturing full-page screenshots and PDFs of competitor pages, with a free tier.
 
 ---
 
