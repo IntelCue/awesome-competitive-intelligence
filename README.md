@@ -48,6 +48,7 @@ Track changes to competitor websites, pricing pages, and product updates.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
+- [EarlyLore](https://earlylore.com/) - Founder research workspace that follows public changes to competitor pricing, positioning, features, and key product pages.
 
 ---
 
