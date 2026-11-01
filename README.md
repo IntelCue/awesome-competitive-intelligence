@@ -58,6 +58,7 @@ Analyze competitor search rankings, traffic, and content strategy.
 - [Semrush](https://semrush.com) - Comprehensive SEO toolkit with competitor analysis.
 - [Ahrefs](https://ahrefs.com) - Backlink analysis and keyword research.
 - [SimilarWeb](https://similarweb.com) - Website traffic and engagement estimates.
+- [Vaneform](https://vaneform.com) - Free website traffic checker with estimates, rankings, and an MCP server for AI agents.
 - [SpyFu](https://spyfu.com) - Competitor keyword and PPC research.
 - [Moz](https://moz.com) - SEO tools with domain authority metrics.
 - [SE Ranking](https://seranking.com) - SEO platform with competitor tracking.
