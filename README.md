@@ -97,6 +97,7 @@ See what competitors are paying to say: creatives, messaging, and campaign activ
 - [Google Ads Transparency Center](https://adstransparency.google.com) - Public library of ads run on Google, searchable by advertiser.
 - [Meta Ad Library](https://www.facebook.com/ads/library) - Public library of active ads across Facebook and Instagram.
 - [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - Open-source MCP server that lets AI assistants pull a competitor's ads from the Google Ads Transparency Center, with which are new, running or stopped and their first and last shown dates.
 
 ---
 
