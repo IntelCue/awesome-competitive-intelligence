@@ -110,6 +110,7 @@ Research competitor funding, leadership, and company structure.
 - [ZoomInfo](https://zoominfo.com) - B2B contact and company data.
 - [LinkedIn Sales Navigator](https://linkedin.com/sales) - Company and employee insights.
 - [CB Insights](https://cbinsights.com) - Market intelligence and company data.
+- [Company Social MCP](https://github.com/GeminiGeorge22/company-social-mcp) - Open-source MCP server that finds a company's official LinkedIn, X, YouTube, Instagram and Facebook profiles.
 
 ---
 
