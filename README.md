@@ -97,6 +97,7 @@ See what competitors are paying to say: creatives, messaging, and campaign activ
 - [Google Ads Transparency Center](https://adstransparency.google.com) - Public library of ads run on Google, searchable by advertiser.
 - [Meta Ad Library](https://www.facebook.com/ads/library) - Public library of active ads across Facebook and Instagram.
 - [AdMapix](https://www.admapix.com) - AI ad creative intelligence for competitor research across mobile games, apps, and ecommerce.
+- [Adspy](https://www.adspy.sh) - MCP server for researching brands' public Meta and Google ads and their organic TikTok, YouTube and Instagram posts from Claude, Claude Code or Codex.
 
 ---
 
