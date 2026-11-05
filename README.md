@@ -75,6 +75,7 @@ Monitor competitor mentions and activity across social media.
 - [Brand24](https://brand24.com) - Social listening with sentiment analysis.
 - [Hootsuite](https://hootsuite.com) - Social management with monitoring features.
 - [BuzzSumo](https://buzzsumo.com) - Content research and influencer tracking.
+- [OpenSparta](https://opensparta.com) - Lead Radar monitors selected Telegram communities for buying requests, then ranks opportunities with the original message and match evidence.
 
 ---
 
