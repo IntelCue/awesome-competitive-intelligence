@@ -134,6 +134,7 @@ Monitor competitor hiring to understand strategy and investment areas.
 - [Indeed](https://indeed.com) - Aggregated job listings.
 - [Otta](https://otta.com) - Startup job board with company insights.
 - [Theirstack](https://theirstack.com) - Track competitor job postings and tech stacks.
+- [Workday Careers API](https://apify.com/johnvc/workday-careers-api) - Pulls every open job from a company's Workday careers site as JSON, with posted dates and pay ranges where listed.
 
 ---
 
