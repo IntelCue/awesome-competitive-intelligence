@@ -191,6 +191,7 @@ Guides and deep dives on competitive intelligence.
 - [AI-First Competitive Intelligence](https://www.intelcue.ai/blog/ai-first-competitive-intelligence) - How AI agents are replacing manual competitor research.
 - [Claude vs ChatGPT for Competitive Intelligence](https://www.intelcue.ai/blog/claude-vs-chatgpt-competitive-intelligence-comparison) - Comparing the two models for competitive analysis workflows.
 - [How to Choose Competitive Intelligence Software (2026)](https://www.intelcue.ai/blog/how-to-choose-competitive-intelligence-software-saas-2026) - Evaluation criteria for early-stage SaaS teams.
+- [ExampleForge Competitive Evidence Case](https://www.ddscore.ai/example-report#er-section-7) - Fictional SaaS case that compares direct, adjacent, and substitute alternatives and distinguishes supported differentiation claims from those that need more evidence.
 
 ---
 
