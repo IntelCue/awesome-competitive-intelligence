@@ -107,6 +107,7 @@ Research competitor funding, leadership, and company structure.
 - [Crunchbase](https://crunchbase.com) - Startup and company funding database.
 - [PitchBook](https://pitchbook.com) - Private market data for investors.
 - [Owler](https://owler.com) - Company insights and competitive tracking.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - [ZoomInfo](https://zoominfo.com) - B2B contact and company data.
 - [LinkedIn Sales Navigator](https://linkedin.com/sales) - Company and employee insights.
 - [CB Insights](https://cbinsights.com) - Market intelligence and company data.
