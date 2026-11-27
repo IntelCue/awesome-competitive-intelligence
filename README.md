@@ -48,6 +48,7 @@ Track changes to competitor websites, pricing pages, and product updates.
 - [Distill.io](https://distill.io) - Browser extension and app for page monitoring.
 - [Versionista](https://versionista.com) - Track changes across multiple pages.
 - [Fluxguard](https://fluxguard.com) - Website change monitoring for teams.
+- [Pandapi Competitor Price Monitor](https://rabiislimane.github.io/pandapi-tools/competitor-price-monitoring/) - Daily alerts on price, stock and new-product changes in competitor Shopify and WooCommerce stores, run on Apify.
 
 ---
 
